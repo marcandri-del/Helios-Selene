@@ -1,0 +1,6 @@
+{
+  "name": "Helios & Selene",
+  "description": "A cinematic 3D celestial experience featuring the Sun and Moon interacting in deep space with equirectangular planetary textures, animated solar plasma, lunar surface displacement, and gravitational energy effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
